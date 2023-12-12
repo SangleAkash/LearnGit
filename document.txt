@@ -1,1 +1,12 @@
 i make changes inside this file
+git init
+git clone url
+git status
+git branch branch-name
+git checkout branch-name
+git status
+git add file_name
+git commit -m "this is my commit"
+git remote add origin url
+git push -u origin main
+
